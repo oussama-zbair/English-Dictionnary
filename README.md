@@ -74,3 +74,44 @@ while True:
         print('>>>   English required to input [input a single word] , Please try again! ')
 ```
 
+> #  The Output
+
+------------
+
+### - let's try to search 🔎 for the defintion of this word:
+##### 1. Education
+##### 1. Facebook
+##### 1. Google
+# 📑🔎
+------------
+
+1. 
+ [![](https://i.ibb.co/0MWfbL7/Capture1.png)](https://i.ibb.co/0MWfbL7/Capture1.png)
+
+------------
+
+------------
+
+2. 
+[![](https://i.ibb.co/h19VNXX/Capture2.png)](https://i.ibb.co/h19VNXX/Capture2.png)
+
+------------
+
+
+------------
+3. 
+[![](https://i.ibb.co/h1ky3SB/Capture3.png)](https://i.ibb.co/h1ky3SB/Capture3.png)
+
+------------
+
+
+------------
+
+4. 
+[![](https://i.ibb.co/rvPCdbB/Capture4.png)](https://i.ibb.co/rvPCdbB/Capture4.png)
+------------
+
+
+
+
+
