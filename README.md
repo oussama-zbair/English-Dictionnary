@@ -46,15 +46,8 @@ import  requests
 ```
 ##### - -  [For more information on how to install requests](http://docs.python-requests.org/en/master/user/install/#install "for more information on how to install requests")
 ##### 2. Get your own app_id and app_key from [Oxford Dictionaries API](https://developer.oxforddictionaries.com/ "Oxford Dictionaries API")
-- Example of mine key & id
-```python
-app_id = "b7651a9c"
-app_key = "0da5d44688b3109d58d48b71f2947a11"
-endpoint = "entries"
-language_code = "en-us"
-print("🔎 ENGLSH DICTIONNARY 📚")
 
-```
+
 ##### 3. The rest
 ```python
 while True:
