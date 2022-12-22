@@ -11,7 +11,7 @@ This Python script is a command line tool that allows users to look up definitio
 ------------
 
 
-
+### Usage:
 To use this Python script for personal use, you will need to have Python installed on your computer.  
 Once you have Python installed, you will also need to install the requests library by running the following command in your terminal:
 
