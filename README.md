@@ -24,3 +24,6 @@ Then, you can download the script from GitHub and save it to your computer. To r
 python dictionary.py
 ```
 You can then follow the prompts in the script to look up definitions for English words
+
+### Contribute:
+If you are interested in contributing to the script, you can fork the repository on GitHub and make your desired changes. Then, you can submit a pull request to the original repository with your changes, and the maintainers of the repository can review and merge your changes if they are deemed appropriate. To learn more about contributing to open source projects on GitHub, you can refer to the official documentation (https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/).
