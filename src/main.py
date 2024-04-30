@@ -10,8 +10,8 @@ def get_definition(word: str) -> str:
     Returns:
         str: The definition of the word.
     """
-    app_id = "b7651a9c"
-    app_key = "0da5d44688b3109d58d48b71f2947a11"
+    app_id =  # your api_id here
+    app_key = # your api_key here
     endpoint = "entries"
     language_code = "en-us"
 
