@@ -5,6 +5,7 @@
 
 ------------
 ># English Dictionnary
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="Strapi" src="https://img.shields.io/badge/api-%232E7EEA.svg?style=for-the-badge&logo=api&logoColor=white" />
 
 This Python script is a command line tool that allows users to look up definitions for English words. It utilizes the Oxford Dictionaries API to search for definitions and returns the results to the user. The script is easy to use and can be run from the command line by simply entering a word to look up. The script is useful for language learners or anyone looking to improve their vocabulary. It is open source and available on GitHub for anyone to use and contribute to.
 
